@@ -1,0 +1,20 @@
+[
+  {
+    "id": "a4382938-1611-4ceb-9f39-c285a40bfc1f",
+    "name": "Chief HR Officer",
+    "email": "hr.manager_8422@workplace.com",
+    "password": "$2a$10$hlds/v0sFfr2yBsDAsZf4OTLyC5H72pIqCdCFSiMHReBi0qP1syke",
+    "role": "hr_manager",
+    "createdAt": "2026-07-04T11:08:13.024Z",
+    "updatedAt": "2026-07-04T11:08:13.024Z"
+  },
+  {
+    "id": "c3b38b8d-9356-46d2-98fe-4e332b3dde6f",
+    "name": "Chief HR Officer",
+    "email": "hr.manager_8706@workplace.com",
+    "password": "$2a$10$anNMeGpGTqP280W8gNdWpOUxLCHwlAQVGc7CBRFwhkorhzxLCUMM2",
+    "role": "hr_manager",
+    "createdAt": "2026-07-04T11:12:53.546Z",
+    "updatedAt": "2026-07-04T11:12:53.546Z"
+  }
+]

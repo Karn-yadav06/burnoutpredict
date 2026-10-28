@@ -1,0 +1,18 @@
+[
+  {
+    "id": "25370026-e66b-4863-938f-f739949a90ea",
+    "userId": "a4382938-1611-4ceb-9f39-c285a40bfc1f",
+    "employeeName": "Sarah Connor",
+    "department": "Sales",
+    "workloadLevel": 4,
+    "weeklyHours": 52,
+    "jobSatisfaction": 2,
+    "remoteWork": true,
+    "sickDays": 3,
+    "predictedScore": 82,
+    "riskLevel": "High",
+    "recommendation": "CRITICAL: Sarah Connor has a high risk of burnout primarily driven by excessive hours (52 hrs/week). Immediate action: Enforce dynamic caps on weekly working hours, reallocate tasks, and mandate a minimum 3-day recovery leave.",
+    "createdAt": "2026-07-04T11:08:13.062Z",
+    "updatedAt": "2026-07-04T11:12:53.666Z"
+  }
+]

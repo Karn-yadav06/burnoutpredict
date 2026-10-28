@@ -9,9 +9,11 @@ import CustomerSuccess from "../components/CustomerSuccess";
 import CTA from "../components/CTA";
 import Footer from "../components/Footer";
 
+
 const Home = () => {
   return (
     <div className="bg-white">
+
       <Navbar />
 
       <Hero />

@@ -39,12 +39,53 @@ const Footer = () => {
         <div>
           <h3 className="font-bold mb-4">Follow Us</h3>
 
-          <ul className="space-y-2 text-gray-400">
-            <li>LinkedIn</li>
-            <li>GitHub</li>
-            <li>YouTube</li>
-            <li>X (Twitter)</li>
-          </ul>
+          
+<ul className="space-y-2 text-gray-400">
+  <li>
+    <a
+      href="https://www.linkedin.com/in/your-username/"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="hover:text-white transition-colors"
+    >
+      LinkedIn
+    </a>
+  </li>
+
+  <li>
+    <a
+      href="https://github.com/Karn-yadav06"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="hover:text-white transition-colors"
+    >
+      GitHub
+    </a>
+  </li>
+
+  <li>
+    <a
+      href="https://www.youtube.com/@DC_BOY_06"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="hover:text-white transition-colors"
+    >
+      YouTube
+    </a>
+  </li>
+
+  <li>
+    <a
+      href="https://x.com/your-username"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="hover:text-white transition-colors"
+    >
+      X (Twitter)
+    </a>
+  </li>
+</ul>
+
         </div>
 
       </div>

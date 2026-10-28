@@ -10,11 +10,13 @@ import FAQ from "../pages/FAQ";
 import Contact from "../pages/Contact";
 import Login from "../pages/Login";
 import Demo from "../pages/Demo";
+import AIChat from "../components/AIChat";
 
 export default function Router() {
   return (
     <BrowserRouter>
       <Routes>
+
 
         <Route path="/" element={<Home />} />
 
@@ -35,6 +37,8 @@ export default function Router() {
         <Route path="/login" element={<Login />} />
 
         <Route path="/demo" element={<Demo />} />
+
+        <Route path="/ai-chat" element={<AIChat />} />
 
       </Routes>
     </BrowserRouter>
